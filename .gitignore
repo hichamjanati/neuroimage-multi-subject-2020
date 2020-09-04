@@ -1,0 +1,26 @@
+# Cython generation:
+*.cpp
+*.so
+*.o
+*.pyc
+*.c
+
+# cache
+.pytest_cache/*
+mtw/__pycache__/
+
+.DS_Store
+MANIFEST
+
+# doc
+doc/_build/
+doc/auto_examples/
+doc/generated/
+.data/
+
+# eggs
+mtw.egg-info/
+
+*.npy
+*.png
+*.pdf
