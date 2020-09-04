@@ -24,3 +24,4 @@ mtw.egg-info/
 *.npy
 *.png
 *.pdf
+*.pkl
